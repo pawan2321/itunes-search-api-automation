@@ -48,8 +48,8 @@ iTunesSearchAPITests
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/pawan2321/iTunesSearchAPITests.git
-   cd iTunesSearchAPITests
+   git clone https://github.com/pawan2321/itunes-search-api-automation.git
+   cd itunes-search-api-automation
    ```
 
 2. **Install dependencies**:
