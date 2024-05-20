@@ -1,7 +1,3 @@
-Sure! Here's a comprehensive README file for the API automation framework project using Rest Assured and TestNG:
-
----
-
 # iTunes Search API Automation Framework
 
 ## Overview
@@ -166,4 +162,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-This README file provides a clear and structured guide to setting up, running, and contributing to the API automation framework project. Adjust the repository URL, contribution guidelines, and license details according to your specific project requirements.
+This README file provides a clear and structured guide to setting up, running, and contributing to the API automation framework project.
